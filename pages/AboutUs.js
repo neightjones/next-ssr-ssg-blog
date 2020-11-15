@@ -1,5 +1,7 @@
 import React from 'react';
 
-export default () => (
+const AboutUs = () => (
   <div>About Us Page</div>
 );
+
+export default AboutUs;
